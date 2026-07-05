@@ -1,41 +1,32 @@
-# Checklist départ — Londres juillet 2026
+# Checklist départ — Londres 15-21 juillet 2026
 
-## Administratif
-- [ ] Passeports / CNI (vous + fils, validité OK)
-- [ ] Autorisation de sortie du territoire (mineur) si applicable
-- [ ] Assurance voyage
-- [ ] EHIC / carte santé européenne
-- [ ] Inscription conférence + badge
-- [ ] eVisa UK si requis (vérifier règles 2026)
+## Avant de partir
 
-## Transport
-- [ ] Eurostar / vol — billet **pro** (vous)
-- [ ] Billet **perso** (fils)
-- [ ] Confirmations dans `02_transport/`
+### Administratif
+- [ ] Passeports valides (toi + fils) — UK post-Brexit : passeport obligatoire
+- [ ] Adaptateur prise type G (3 broches)
+- [ ] Carte sans frais étrangers (Revolut / N26) rechargée en GBP ou paiement direct
+- [ ] Assurance voyage vérifiée (carte bancaire ou souscription séparée)
+- [ ] Oyster card ou contactless activé pour les transports
 
-## Hébergement
-- [ ] Réservation hôtel (chambre familiale ou double)
-- [ ] Confirmation + politique annulation → `03_hebergement/`
+### Pro
+- [ ] Email envoyé à Level39 pour demande visite (hello@level39.co)
+- [ ] Inscription London A.I. Networking 14 juillet sur ainetworking.co.uk (si arrivée le 14)
+- [ ] Vérification date/lieu Mindstone July Meetup sur community.mindstone.com/events
+- [ ] Carte de visite numérique prête (LinkedIn QR ou profil ZineInsights)
+- [ ] Carnet de notes ou Notion ouvert pour documentation veille en temps réel
 
-## Pro — conférence Londres
-- [ ] Programme sessions téléchargé → `01_conference/`
-- [ ] Adaptateur prise UK (type G)
-- [ ] Laptop, chargeur, batterie
-- [ ] Tenue professionnelle
+### Fils
+- [ ] London Pass ou liste musées gratuits confirmée (Science Museum, Natural History, British Museum — tous gratuits)
+- [ ] Oyster card fils (tarif réduit 11-15 ans)
+- [ ] Activités prévues : Tower Bridge, Hyde Park, Thames boat
 
-## Avec fils (12 ans)
-- [ ] Activités réservées (British Museum, Tower…)
-- [ ] Snacks, eau, livre / tablette
-- [ ] Carte urgence sur lui
-- [ ] Budget perso validé → `04_budget/perso/`
+---
 
-## Bagages Londres
-- [ ] Veste imperméable / parapluie
-- [ ] Chaussures confortables (beaucoup de marche)
-- [ ] Power bank
+## À emporter
 
-## J-1
-- [ ] Enregistrement Eurostar / vol
-- [ ] Check-in hôtel
-- [ ] Relire ventilation pro/perso
-- [ ] Taux GBP/EUR noté dans budget
+- Adaptateur UK type G
+- Chargeurs + câbles
+- Parapluie compact (météo Londres)
+- Couche imperméable légère
+
