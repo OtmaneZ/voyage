@@ -3,7 +3,11 @@
 ## Avant de partir
 
 ### Administratif
-- [ ] Passeports valides (toi + fils) — UK post-Brexit : passeport obligatoire
+- [ ] Passeports valides (toi + fils) — carte d'identité refusée depuis oct 2021, passeport biométrique obligatoire pour les deux
+- [ ] ETA toi — 20£ sur gov.uk ou app "UK ETA" — à faire avant le départ, non achetable à l'aéroport
+- [ ] ETA fils — 20£ idem, demande séparée — sans ETA : refus d'embarquement garanti depuis le 25/02/2026
+- [ ] CEAM (Carte Européenne d'Assurance Maladie) toi — à demander à ta caisse, délai 15 jours minimum
+- [ ] CEAM fils — même démarche, reste valable au Royaume-Uni post-Brexit (accord de commerce UK/UE)
 - [ ] Adaptateur prise type G (3 broches)
 - [ ] Carte sans frais étrangers (Revolut / N26) rechargée en GBP ou paiement direct
 - [ ] Assurance voyage vérifiée (carte bancaire ou souscription séparée)
